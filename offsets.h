@@ -1,10 +1,9 @@
 #pragma once
 #include <Windows.h>
 
-#define OFFSET_UWORLD 0xE0CF488
-
 namespace OFFSETS
 {
+    uintptr_t UWorld = 0xE0CF488;
     uintptr_t AActor = 0x190;
     uintptr_t Mesh = 0x310;
     uintptr_t ActorCount = 0xA0;
