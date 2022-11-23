@@ -4,7 +4,7 @@
 namespace offsets
 {
     uintptr_t uWorld = 0xE0CF488;
-    uintptr_t aAcotr = 0x190;
+    uintptr_t aActor = 0x190;
     uintptr_t mesh = 0x310;
     uintptr_t actorCount = 0xA0;
     uintptr_t currentActor = 0x8;
