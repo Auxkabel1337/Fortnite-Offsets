@@ -9,7 +9,7 @@ namespace offsets
     uintptr_t actorCount = 0xA0;
     uintptr_t currentActor = 0x8;
     uintptr_t reviveFromdBNotime = 0x4180;
-    uintptr_t TeamId = 0x1098;
+    uintptr_t teamId = 0x1098;
     uintptr_t localActorPos = 0x128;
     uintptr_t componetToWorld = 0x240;
     uintptr_t boneArray = 0x5A0;
