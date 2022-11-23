@@ -22,7 +22,7 @@ namespace offsets
     uintptr_t localPlayers = 0x38;
     uintptr_t playerController = 0x30;
     uintptr_t localPawn = 0x328;
-    uintptr_t ülayerState = 0x2A8;
+    uintptr_t playerState = 0x2A8;
     uintptr_t rootComponet = 0x190;
     uintptr_t persistentLevel = 0x30;
 }
