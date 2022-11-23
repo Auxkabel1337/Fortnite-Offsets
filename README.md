@@ -1,4 +1,3 @@
 # Fortnite-Offsets
 
-**Fortnite Offsets updated every update for your skidded cheats 👍🤣
-**
+**Fortnite Offsets updated every update for your skidded cheats** 👍🤣
