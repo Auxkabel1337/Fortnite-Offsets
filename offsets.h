@@ -4,6 +4,7 @@
 
 namespace offsets
 {
+    // join discord.gg/pasterx for all offsets
     uintptr_t UWorld = 0xE11FDC8;
     uintptr_t AActor = 0x98;
     uintptr_t Mesh = 0x310;
